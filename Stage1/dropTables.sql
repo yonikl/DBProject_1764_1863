@@ -1,0 +1,11 @@
+DROP TABLE HadAccident;
+DROP TABLE MadeMaintenance;
+DROP TABLE HadTrip;
+DROP TABLE DriveAt;
+DROP TABLE MaintenanceRecord;
+DROP TABLE Vehicle;
+DROP TABLE HasTrips;
+DROP TABLE Accident;
+DROP TABLE Trip;
+DROP TABLE Soldier;
+DROP TABLE Base;
