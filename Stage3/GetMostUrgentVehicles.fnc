@@ -16,4 +16,3 @@ EXCEPTION
         OPEN v_Vehicles FOR SELECT NULL AS VehicleID, NULL AS Model_, NULL AS AquisitionDate, NULL AS Status FROM DUAL WHERE 1 = 0; -- Empty cursor
         RETURN v_Vehicles;
 END;
-/
