@@ -39,4 +39,3 @@ BEGIN
     CLOSE p_SoldierIDs;
     COMMIT;
 END;
-/
