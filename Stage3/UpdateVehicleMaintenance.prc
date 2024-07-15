@@ -28,4 +28,3 @@ EXCEPTION
         DBMS_OUTPUT.PUT_LINE('Error updating vehicle maintenance: ' || SQLERRM);
         ROLLBACK;
 END;
-/
