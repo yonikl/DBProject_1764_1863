@@ -21,4 +21,3 @@ EXCEPTION
         OPEN v_Soldiers FOR SELECT NULL AS SoldierID FROM DUAL WHERE 1 = 0; -- Empty cursor
         RETURN v_Soldiers;
 END;
-/
